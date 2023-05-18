@@ -17,4 +17,4 @@ class Person
         @job
     end
 end
-lyon = Person.new
+kanye = Person.new
